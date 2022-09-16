@@ -54,7 +54,7 @@ function App() {
       </div>
       <Dialog.Root>
         <CreateAdBanner />
-        <CreateAdModal games={games}/>
+        <CreateAdModal />
       </Dialog.Root>
     </div>
   );
